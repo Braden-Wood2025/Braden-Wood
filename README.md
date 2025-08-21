@@ -6,7 +6,7 @@ I’m a business world enthusiast who loves uncovering the stories hidden in num
 
 Outside of work, I’m a family man, a bookworm, and an avid reader of Inc. magazine. You’ll usually find me with a black coffee (or a glass of good whiskey in the evening), diving into something new to learn.
 
-I enjoy working with people, sharing ideas, and building solutions that make a measurable impact.</p><p align='left'> You can view my resume <a href=['bradenlwood@gmail.com ](https://docs.google.com/document/d/1umDcjmWS5MmXc8P6eYGwg6ZzPwoFPFQDP1pvwR2Nmy4/edit?usp=sharing)' target=_blank><u>here</u>.</a></p>
+I enjoy working with people, sharing ideas, and building solutions that make a measurable impact.</p><p align='left'> You can view my resume here ['bradenlwood@gmail.com ](https://docs.google.com/document/d/1umDcjmWS5MmXc8P6eYGwg6ZzPwoFPFQDP1pvwR2Nmy4/edit?usp=sharing)'
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=bradenlwood@gmail.com alt=bradenlwood@gmail.com /> </p>
 
