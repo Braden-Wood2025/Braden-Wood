@@ -9,6 +9,3 @@ Outside of work, I’m a family man, a bookworm, and an avid reader of Inc. maga
 I enjoy working with people, sharing ideas, and building solutions that make a measurable impact.</p><p align='left'> You can view my resume [here](https://docs.google.com/document/d/1umDcjmWS5MmXc8P6eYGwg6ZzPwoFPFQDP1pvwR2Nmy4/edit?usp=sharing)'
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=bradenlwood@gmail.com alt=bradenlwood@gmail.com /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=bradenlwood@gmail.com&show_icons=true&include_all_commits=true)](https://github.com/bradenlwood@gmail.com/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradenlwood@gmail.com&layout=compact)](https://github.com/bradenlwood@gmail.com/github-readme-stats)
